@@ -1,0 +1,30 @@
+D:\c#\Educational system\EDU\EDU\bin\Debug\net6.0\EDU.exe
+D:\c#\Educational system\EDU\EDU\bin\Debug\net6.0\EDU.deps.json
+D:\c#\Educational system\EDU\EDU\bin\Debug\net6.0\EDU.runtimeconfig.json
+D:\c#\Educational system\EDU\EDU\bin\Debug\net6.0\EDU.dll
+D:\c#\Educational system\EDU\EDU\bin\Debug\net6.0\EDU.pdb
+D:\c#\Educational system\EDU\EDU\obj\Debug\net6.0\EDU.csproj.AssemblyReference.cache
+D:\c#\Educational system\EDU\EDU\obj\Debug\net6.0\EDU.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Educational system\EDU\EDU\obj\Debug\net6.0\EDU.AssemblyInfoInputs.cache
+D:\c#\Educational system\EDU\EDU\obj\Debug\net6.0\EDU.AssemblyInfo.cs
+D:\c#\Educational system\EDU\EDU\obj\Debug\net6.0\EDU.csproj.CoreCompileInputs.cache
+D:\c#\Educational system\EDU\EDU\obj\Debug\net6.0\EDU.dll
+D:\c#\Educational system\EDU\EDU\obj\Debug\net6.0\refint\EDU.dll
+D:\c#\Educational system\EDU\EDU\obj\Debug\net6.0\EDU.pdb
+D:\c#\Educational system\EDU\EDU\obj\Debug\net6.0\EDU.genruntimeconfig.cache
+D:\c#\Educational system\EDU\EDU\obj\Debug\net6.0\ref\EDU.dll
+C:\Users\elnour\Desktop\git\Educational-Management-System-OOP-project-\bin\Debug\net6.0\EDU.exe
+C:\Users\elnour\Desktop\git\Educational-Management-System-OOP-project-\bin\Debug\net6.0\EDU.deps.json
+C:\Users\elnour\Desktop\git\Educational-Management-System-OOP-project-\bin\Debug\net6.0\EDU.runtimeconfig.json
+C:\Users\elnour\Desktop\git\Educational-Management-System-OOP-project-\bin\Debug\net6.0\EDU.dll
+C:\Users\elnour\Desktop\git\Educational-Management-System-OOP-project-\bin\Debug\net6.0\EDU.pdb
+C:\Users\elnour\Desktop\git\Educational-Management-System-OOP-project-\obj\Debug\net6.0\EDU.csproj.AssemblyReference.cache
+C:\Users\elnour\Desktop\git\Educational-Management-System-OOP-project-\obj\Debug\net6.0\EDU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elnour\Desktop\git\Educational-Management-System-OOP-project-\obj\Debug\net6.0\EDU.AssemblyInfoInputs.cache
+C:\Users\elnour\Desktop\git\Educational-Management-System-OOP-project-\obj\Debug\net6.0\EDU.AssemblyInfo.cs
+C:\Users\elnour\Desktop\git\Educational-Management-System-OOP-project-\obj\Debug\net6.0\EDU.csproj.CoreCompileInputs.cache
+C:\Users\elnour\Desktop\git\Educational-Management-System-OOP-project-\obj\Debug\net6.0\EDU.dll
+C:\Users\elnour\Desktop\git\Educational-Management-System-OOP-project-\obj\Debug\net6.0\refint\EDU.dll
+C:\Users\elnour\Desktop\git\Educational-Management-System-OOP-project-\obj\Debug\net6.0\EDU.pdb
+C:\Users\elnour\Desktop\git\Educational-Management-System-OOP-project-\obj\Debug\net6.0\EDU.genruntimeconfig.cache
+C:\Users\elnour\Desktop\git\Educational-Management-System-OOP-project-\obj\Debug\net6.0\ref\EDU.dll
